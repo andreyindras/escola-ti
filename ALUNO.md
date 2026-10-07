@@ -2,9 +2,9 @@
 
 # ALUNO
 
-Nome: AndreyIndras
+Nome: Andrey Eduardo Indras
 
-RA: >>> PREENCHER <<<
+RA: >>> 230508612 <<<
 
 Conta GitHub: @andreyindras
 
