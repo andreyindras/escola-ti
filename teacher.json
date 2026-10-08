@@ -1,0 +1,55 @@
+{
+  "schema": 1,
+  "repo": "escola-ti",
+  "repo_url": "https://github.com/andreyindras/escola-ti",
+  "exam_dir": "exams/2026/track-01-especificacao-sdd",
+  "track": "track-01-especificacao-sdd",
+  "issue": 1,
+  "issue_url": "https://github.com/andreyindras/escola-ti/issues/1",
+  "gerado_em": "2026-10-08T00:41:13+00:00",
+  "fechada_em": "2026-10-08T00:40:38Z",
+  "aplicada": true,
+  "motivo": null,
+  "aluno": {
+    "login": "andreyindras",
+    "ra": null,
+    "nome": "Andrey Eduardo Indras"
+  },
+  "variante": {
+    "slug": "escola-ti",
+    "EXAM_DIR": "exams/2026/track-01-especificacao-sdd",
+    "TARIFA_HORA_CENTAVOS": 600,
+    "FRACAO_MINUTOS": 15,
+    "TETO_DIARIO_CENTAVOS": 6000,
+    "PORTA_SERVICO": 8005,
+    "TOLERANCIA_MINUTOS": 10
+  },
+  "janela": {
+    "minutos": 120,
+    "t0": "2026-10-07T22:21:55Z",
+    "ultimo_push": "2026-10-07T21:34:20-03:00"
+  },
+  "commits": {
+    "total": 5,
+    "autores": [
+      "AndreyIndras",
+      "andreyindras"
+    ],
+    "primeiro": "2026-10-07T19:05:49-03:00",
+    "ultimo": "2026-10-07T21:34:20-03:00",
+    "fora_da_janela": 2
+  },
+  "nota_parcial": {
+    "valor": null,
+    "criterios": {}
+  },
+  "auto_correcao": {
+    "executada": true,
+    "nota_ultima": 12
+  },
+  "fontes": {
+    "presente": true,
+    "declarou_vazio": false,
+    "links": 0
+  }
+}
